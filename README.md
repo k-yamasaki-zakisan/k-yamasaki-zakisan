@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kazuyoshi-tech&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuyoshi-tech" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazuyoshi-tech)](https://github.com/ryo-ma/github-profile-trophy)
+
 
