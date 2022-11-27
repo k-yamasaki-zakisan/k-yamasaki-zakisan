@@ -1,5 +1,5 @@
 ### 🌱 My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,&theme=light" />
+<img alt="my skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
 
 ### 🌱 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
