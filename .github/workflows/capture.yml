@@ -5,7 +5,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 0 1 * *"
+    # レーティング更新が金曜日なので土曜の00:00にキャプチャ更新処理
+    - cron: "0 0 * * 6"
 
 jobs:
   capture_streak:
