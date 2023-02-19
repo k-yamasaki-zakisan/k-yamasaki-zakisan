@@ -4,7 +4,7 @@
 
 ### 🏆 Trophies
 
-<img alt="Trophies" height="100px" src="https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=5&margin-h=5" />
+<img alt="Trophies" height="130px" src="https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=5&margin-h=5" />
 
 <!-- [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=kkp)](https://github.com/KATO-Hiro/AtCoderTrophies) -->
 
@@ -13,8 +13,8 @@
 ## 🎯 Status
 
 <p align="left"> 
-  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-yamasaki-zakisan&layout=compact&show_icons=true" />
-  <img alt="Github Stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=k-yamasaki-zakisan" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-yamasaki-zakisan&layout=compact&show_icons=true" />
+  <img alt="Github Stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=k-yamasaki-zakisan" />
 </p>
 
 ## 📈 LeetCode
@@ -23,12 +23,12 @@
 
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="100px">
-    <img alt="LeetCode Problems" src="./images/problems.png" height="100px">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="130px">
+    <img alt="LeetCode Problems" src="./images/problems.png" height="130px">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="100px">
-    <img alt="LeetCode Rating" src="./images/rating.png" height="100px">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="130px">
+    <img alt="LeetCode Rating" src="./images/rating.png" height="130px">
   </picture>
 </p>
     
