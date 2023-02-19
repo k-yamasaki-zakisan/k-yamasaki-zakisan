@@ -1,0 +1,27 @@
+name: capture streak
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 0 * *"
+
+jobs:
+  capture_streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Install Puppeteer
+        run: PUPPETEER_PRODUCT=chrome deno run -A --unstable https://deno.land/x/puppeteer@16.2.0/install.ts
+      - name: Capture streak
+        run: PUPPETEER_PRODUCT=chrome deno task run
+        env:
+          LEET_CODE_USER_NAME: ${{ secrets.LEET_CODE_USER_NAME }}
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
