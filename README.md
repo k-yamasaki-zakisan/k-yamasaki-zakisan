@@ -18,15 +18,17 @@
 ## 📈 LeetCode
 <!--START_SECTION:leetcode-streak-updated-time-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" width="500">
-  <img alt="" src="./images/problems.png" width="500">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png">
-  <img alt="" src="./images/streak.png">
-</picture>
-  
-Last Updated on 2/19/2023, 1:26:15 PM
-  
+<p align="left"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="150px">
+    <img alt="LeetCode Problems" src="./images/problems.png" height="150px">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="150px">
+    <img alt="LeetCode Rating" src="./images/rating.png" height="150px">
+  </picture>
+</p>
+    
+Last Updated on 2/19/2023, 1:50:05 PM
+    
 <!--END_SECTION:leetcode-streak-updated-time-->
