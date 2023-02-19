@@ -1,31 +1,34 @@
 ### 🌱 My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
+
+<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img alt="Trophies" height="100px" src="https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=5&margin-h=5" />
+
 <!-- [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=kkp)](https://github.com/KATO-Hiro/AtCoderTrophies) -->
 
-[](
-![visitors](https://visitor-badge.glitch.me/badge?page_id=k-yamasaki-zakisan)
-)
+[](<![visitors](https://visitor-badge.glitch.me/badge?page_id=k-yamasaki-zakisan)>)
 
 ## 🎯 Status
+
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-yamasaki-zakisan&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=k-yamasaki-zakisan" />
+  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-yamasaki-zakisan&layout=compact&show_icons=true" />
+  <img alt="Github Stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=k-yamasaki-zakisan" />
 </p>
 
 ## 📈 LeetCode
+
 <!--START_SECTION:leetcode-streak-updated-time-->
 
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="150px">
-    <img alt="LeetCode Problems" src="./images/problems.png" height="150px">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="100px">
+    <img alt="LeetCode Problems" src="./images/problems.png" height="100px">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="150px">
-    <img alt="LeetCode Rating" src="./images/rating.png" height="150px">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="100px">
+    <img alt="LeetCode Rating" src="./images/rating.png" height="100px">
   </picture>
 </p>
     
