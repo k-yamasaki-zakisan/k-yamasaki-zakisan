@@ -15,7 +15,7 @@ export const updateReadme = async (user: string) => {
   <img alt="" src="./images/problems.png" width="500">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/streak_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png">
   <img alt="" src="./images/streak.png">
 </picture>
   \nLast Updated on ${new Date().toLocaleString()}

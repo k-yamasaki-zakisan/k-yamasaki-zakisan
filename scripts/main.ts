@@ -1,3 +1,4 @@
+// @see https://zenn.dev/ryo_kawamata/articles/c6580f35160139
 import { z } from "https://deno.land/x/zod@v3.20.2/mod.ts";
 import { capturePage } from "./lib/capturePage.ts";
 import { updateReadme } from "./lib/updateReadme.ts";
