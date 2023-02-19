@@ -17,4 +17,16 @@
 
 ## 📈 LeetCode
 <!--START_SECTION:leetcode-streak-updated-time-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" width="500">
+  <img alt="" src="./images/problems.png" width="500">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/streak_dark.png">
+  <img alt="" src="./images/streak.png">
+</picture>
+  
+Last Updated on 2/19/2023, 1:15:21 PM
+  
 <!--END_SECTION:leetcode-streak-updated-time-->
