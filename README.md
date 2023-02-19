@@ -23,10 +23,10 @@
   <img alt="" src="./images/problems.png" width="500">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/streak_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png">
   <img alt="" src="./images/streak.png">
 </picture>
   
-Last Updated on 2/19/2023, 1:15:21 PM
+Last Updated on 2/19/2023, 1:26:15 PM
   
 <!--END_SECTION:leetcode-streak-updated-time-->
