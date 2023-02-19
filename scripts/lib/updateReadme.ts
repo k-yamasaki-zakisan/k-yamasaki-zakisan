@@ -10,16 +10,18 @@ export const updateReadme = async (user: string) => {
   }
 
   const markup = `
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" width="500">
-  <img alt="" src="./images/problems.png" width="500">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" width="500">
-  <img alt="" src="./images/rating.png" width="500">
-</picture>
-  \nLast Updated on ${new Date().toLocaleString()}
-  `;
+<p align="left"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="150px">
+    <img alt="LeetCode Problems" src="./images/problems.png" height="150px">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="150px">
+    <img alt="LeetCode Rating" src="./images/rating.png" height="150px">
+  </picture>
+</p>
+    \nLast Updated on ${new Date().toLocaleString()}
+    `;
 
   const newReadme = readme.replace(markerPattern, `$1\n${markup}\n$2`);
 
