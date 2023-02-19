@@ -4,7 +4,7 @@
 
 ### 🏆 Trophies
 
-<img alt="Trophies" height="160px" src="https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=5&margin-h=5" />
+<img alt="Trophies" height="180px" src="https://github-profile-trophy.vercel.app/?username=k-yamasaki-zakisan&margin-w=5&margin-h=5" />
 
 <!-- [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=kkp)](https://github.com/KATO-Hiro/AtCoderTrophies) -->
 
