@@ -27,7 +27,7 @@ jobs:
         with:
           default_author: github_actions
           fetch: true
-          pull: master
-          add: .
+          pull: "master"
+          add: "."
           commit: --signoff
           push: true
