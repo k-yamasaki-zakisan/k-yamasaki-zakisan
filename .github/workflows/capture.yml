@@ -27,3 +27,5 @@ jobs:
         with:
           default_author: github_actions
           pull: master
+          push: true
+          commit: --signoff
