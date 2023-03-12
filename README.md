@@ -24,14 +24,14 @@
 <p align="left"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/problems_dark.png" height="140px">
-    <img alt="LeetCode Problems" src="./images/problems.png" height="140px">
+    <img alt="LeetCode Problems" src="./images/problems.png" height="150px">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/rating_dark.png" height="140px">
-    <img alt="LeetCode Rating" src="./images/rating.png" height="140px">
+    <img alt="LeetCode Rating" src="./images/rating.png" height="150px">
   </picture>
 </p>
     
-Last Updated on 3/11/2023, 12:39:26 PM
+Last Updated on 3/12/2023, 1:07:41 AM
     
 <!--END_SECTION:leetcode-streak-updated-time-->
