@@ -23,20 +23,20 @@ export const capturePage = async (user: string) => {
   ]);
 
   const targets = [
-    // {
-    //   xpath:
-    //     "//span[contains(., 'submissions in the last year')]/parent::div/parent::div/parent::div",
-    //   name: "streak",
-    // },
-    // {
-    //   xpath:
-    //     "//div[contains(., 'Contest Rating') and not(*)]/parent::div/parent::div/parent::div/parent::div",
-    //   name: "rating",
-    // },
+    {
+      xpath:
+        "//span[contains(., 'submissions in the last year')]/parent::div/parent::div/parent::div",
+      name: "streak",
+    },
+    {
+      xpath:
+        "//div[contains(., 'Contest Rating') and not(*)]/parent::div/parent::div/parent::div/parent::div",
+      name: "rating",
+    },
     {
       xpath:
         "//div[contains(., 'Top') and not(*)]/parent::div/parent::div/parent::div/parent::div",
-      name: "rating",
+      name: "rating_top",
     },
     {
       xpath: "//div[contains(., 'Solved Problems') and not(*)]/parent::div",
