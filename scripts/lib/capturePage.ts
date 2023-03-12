@@ -28,6 +28,11 @@ export const capturePage = async (user: string) => {
     //     "//span[contains(., 'submissions in the last year')]/parent::div/parent::div/parent::div",
     //   name: "streak",
     // },
+    // {
+    //   xpath:
+    //     "//div[contains(., 'Contest Rating') and not(*)]/parent::div/parent::div/parent::div/parent::div",
+    //   name: "rating",
+    // },
     {
       xpath:
         "//div[contains(., 'Top') and not(*)]/parent::div/parent::div/parent::div/parent::div",
