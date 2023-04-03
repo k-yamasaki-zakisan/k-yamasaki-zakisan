@@ -1,1 +1,2 @@
+# deno.lockをgit管理するとGitHub Actions中で落ちる
 deno.lock
