@@ -11,6 +11,7 @@ on:
 jobs:
   capture_streak:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@master
       - uses: denoland/setup-deno@v1
