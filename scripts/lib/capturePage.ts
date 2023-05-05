@@ -62,5 +62,6 @@ export const capturePage = async (user: string) => {
     console.log(`${name}の処理が完了しました`);
   }
 
-  // await browser.close();
+  // TODO browser.close()が効いてない
+  await browser.close();
 };

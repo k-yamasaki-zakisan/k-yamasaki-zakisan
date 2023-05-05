@@ -20,6 +20,8 @@ jobs:
       - name: Install Puppeteer
         run: PUPPETEER_PRODUCT=chrome deno run -A --unstable https://deno.land/x/puppeteer@16.2.0/install.ts
       - name: Capture streak
+        # 2023-04-28 browser.close()が効かなくなったのでタイムアウトで処理を無理やり止める
+        timeout-minutes: 2
         run: PUPPETEER_PRODUCT=chrome deno task run
         env:
           LEET_CODE_USER_NAME: ${{ secrets.LEET_CODE_USER_NAME }}

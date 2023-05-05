@@ -12,8 +12,6 @@ const main = async () => {
   await updateReadme(user);
   console.log("updateReadme完了");
   console.log("処理を完了します");
-  console.log("browser.close()が壊れているので強制終了します");
-  throw new Error("強制終了！！！！");
 };
 
 main();
