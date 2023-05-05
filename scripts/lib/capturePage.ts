@@ -45,6 +45,7 @@ export const capturePage = async (user: string) => {
   ];
 
   for (const { xpath, name } of targets) {
+    console.log(`${name}の処理を開始します`);
     const streakElement = await page.waitForXPath(xpath);
 
     // capture light mode
@@ -58,6 +59,7 @@ export const capturePage = async (user: string) => {
       html.classList.add("dark");
     }, await page.$("html"));
     await streakElement?.screenshot({ path: `images/${name}_dark.png` });
+    console.log(`${name}の処理が完了しました`);
   }
 
   await browser.close();
