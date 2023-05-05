@@ -1,4 +1,4 @@
-import puppeteer from "https://deno.land/x/puppeteer@9.0.2/mod.ts";
+import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 
 export const capturePage = async (user: string) => {
   const browser = await puppeteer.launch();
