@@ -6,8 +6,12 @@ import { updateReadme } from "./lib/updateReadme.ts";
 const main = async () => {
   const user = z.string().parse(Deno.env.get("LEET_CODE_USER_NAME"));
 
+  console.log("スタート");
   await capturePage(user);
+  console.log("capturePage完了");
   await updateReadme(user);
+  console.log("updateReadme完了");
+  console.log("処理を完了します");
 };
 
 main();
