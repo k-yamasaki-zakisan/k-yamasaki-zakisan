@@ -1,4 +1,4 @@
-import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import puppeteer from "https://deno.land/x/puppeteer@9.0.2/mod.ts";
 
 export const capturePage = async (user: string) => {
   const browser = await puppeteer.launch();
@@ -62,6 +62,5 @@ export const capturePage = async (user: string) => {
     console.log(`${name}の処理が完了しました`);
   }
 
-  // ブラウザがcloseできなくなったのでawaitを外す
-  browser.close();
+  await browser.close();
 };
