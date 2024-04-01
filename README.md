@@ -1,6 +1,6 @@
 ### 🌱 My Skills
 
-<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
+<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
 
 ### 🏆 Trophies
 
