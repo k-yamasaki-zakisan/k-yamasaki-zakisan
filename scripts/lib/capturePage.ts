@@ -25,7 +25,7 @@ export const capturePage = async (user: string) => {
   const targets = [
     {
       xpath:
-        "//div[contains(., 'Contest Rating') and not(*)]/parent::div/parent::div/parent::div/parent::div",
+        "//div[contains(., 'Contest Rating')]/parent::div/parent::div/parent::div/parent::div",
       name: "rating",
     },
     {
