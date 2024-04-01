@@ -25,11 +25,6 @@ export const capturePage = async (user: string) => {
   const targets = [
     {
       xpath:
-        "//span[contains(., 'submissions in the last year')]/parent::div/parent::div/parent::div",
-      name: "streak",
-    },
-    {
-      xpath:
         "//div[contains(., 'Contest Rating') and not(*)]/parent::div/parent::div/parent::div/parent::div",
       name: "rating",
     },
