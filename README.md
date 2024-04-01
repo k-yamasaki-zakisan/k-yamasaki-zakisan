@@ -1,6 +1,6 @@
 ### 🌱 My Skills
 
-<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
+<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,docker,linux,github,redis,jenkins,laravel,php,py,nextjs,react,nuxtjs,vue,nodejs,ts,js,jest,webpack,rust,vscode,&theme=light" />
 
 ### 🏆 Trophies
 
@@ -32,6 +32,6 @@
   </picture>
 </p>
     
-Last Updated on 8/17/2023, 4:37:02 PM
+Last Updated on 7/22/2023, 12:22:03 AM
     
 <!--END_SECTION:leetcode-streak-updated-time-->
