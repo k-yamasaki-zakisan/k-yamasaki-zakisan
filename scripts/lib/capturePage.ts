@@ -3,6 +3,7 @@ import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 export const capturePage = async (user: string) => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
+  page.setDefaultTimeout(60000);
 
   await page.setViewport({
     width: 1920,
